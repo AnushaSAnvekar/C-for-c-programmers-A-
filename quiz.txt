@@ -1,0 +1,24 @@
+ans1- 1
+ans2- 1
+ans3- -4
+ans4- 0
+ans5- d
+ans6- all of the above
+ans7- invented c++
+ans8- shortest path algorithm
+ans9- graph theory
+ans10- false
+ans11- True
+ans12- 3
+ans13- 2
+ans14- 3
+ans15- 4
+ans16- 5
+ans17- 32
+ans18- 32
+ans19- 9
+ans20- 0
+ans21- 5
+ans22- 8
+ans23- 10
+ans24- 11
