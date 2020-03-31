@@ -9,8 +9,6 @@
 //                                                                                               //
 // To run:                                                                                       //
 //  Simply run the program and enter the values as requested by the program.                     //
-//===============================================================================================//
-
 
 #include <iostream>
 #include <math.h>
@@ -126,7 +124,7 @@ void Dijkstra::initialize(){
 	// the execution. The distance between source to source is zero and all other
 	// distances between source and vertices are infinity. The mark is initialized
 	// to false and predecessor is initialized to -1
-	//
+
 
 	for (int i = 0; i<numOfVertices; i++) {
 		mark[i] = false;
