@@ -15,7 +15,7 @@ ans14- 3
 ans15- 4
 ans16- 5
 ans17- 32
-ans18- 32
+ans18- 20
 ans19- 9
 ans20- 0
 ans21- 5
