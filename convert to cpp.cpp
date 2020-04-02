@@ -29,3 +29,4 @@ int main()
 
 	return 0;
 }
+//you can use other methods also
